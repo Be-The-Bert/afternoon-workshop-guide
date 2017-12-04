@@ -31,18 +31,18 @@ Tip: When choosing topics, keep in mind that the students are about to move to g
 The exact schedule you decide on will depend on your cohort. Variables to keep in mind are the number of students you have and how well they engage in large groups. 
 No matter what schedule you decide on allow for some short breaks between.
 ### Workshop Division
-4 Mentors - Each mentor should take a class
-3 Mentors - Each mentor should take a class. If you want to have four workshops one mentor will double up or you may be able to grab one of the other mentors if you desire their expertise
-2 Mentors - Each mentor should take at least one class, or both double up to fill the schedule
+* 4 Mentors - Each mentor should take a class
+* 3 Mentors - Each mentor should take a class. If you want to have four workshops one mentor will double up or you may be able to grab one of the other mentors if you desire their expertise
+* 2 Mentors - Each mentor should take at least one class, or both double up to fill the schedule
 ### Examples
 26 Students
-* Four workshops total
+* Four workshops total, taught by four mentors
 * 2 new concepts, 2 best practice
 * All four classes taught on Tue and again on Wed. Two taught from 1:45-2:45, and two taught from 3-4. This schedule allows students to attend two workshops the first afternoon and then rotate and attend the other two the next day.
 * This allowed for smaller groups in the workshops which can be very benefitial with such a large cohort
 
 14 Students
-* Three workshops total
+* Three workshops total, taught by three mentors
 * 3 new concepts
 * Two workshops taught Tue and one taught Wed. No repeating or rotating necessary with this small and vocal group
 
