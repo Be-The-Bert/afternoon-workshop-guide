@@ -1,5 +1,5 @@
 # Afternoon Workshop Guide
-Between Personals and Groups we have two free afternoons open for mentor led workshops. This is a really cool opportunity for mentors to dive deeper on a few concepts that don't fit into our core curriculem and a really good tool to fight the burnout mindset that usually affects students during this part of the schedule
+Between Personals and Groups we have two free afternoons open for mentor-led workshops. This is a really cool opportunity for mentors to dive deeper on a few concepts that don't fit into our core curriculum and a really good tool to fight the burnout mindset that usually affects students during this part of the schedule.
 
 ## General Tips
 The success of these workshops and the lecture schedule between projects in general is directly tied to your attitude, even more than usual. Students have been pushing themselves really hard and as you probably know it's very easy to check out at this point. So let them know you're excited to teach these workshops, and you're really interested in the topics being taught in lectures. If you're checked out, they will check out. 
@@ -20,7 +20,7 @@ Tip: When choosing topics, keep in mind that the students are about to move to g
 * Wireframing tools
 * Libraries by popular vote (ex. socket.io, chartjs etc)
 
-### Suggestions for review workshops-
+### Suggestions for Review Workshops
 * Planning (timeboxing, updating plans, good resources)
 * File structure/Component structure
 * Dry code in React (functional components vs class components)
@@ -29,11 +29,13 @@ Tip: When choosing topics, keep in mind that the students are about to move to g
 
 ## Schedule 
 The exact schedule you decide on will depend on your cohort. Variables to keep in mind are the number of students you have and how well they engage in large groups. 
-No matter what schedule you decide on allow for some short breaks between.
+No matter what schedule you decide on, allow for some short breaks between (15 min. seems to be a good length). It is also wise to follow a new concept workshop with a review workshop or vice versa to prevent overloading the students with completely new concepts. Also if you have a workshop that will run long pair it with a shorter workshop to help avoid fatigue. 
+
 ### Workshop Division
 * 4 Mentors - Each mentor should take a class
 * 3 Mentors - Each mentor should take a class. If you want to have four workshops one mentor will double up or you may be able to grab one of the other mentors if you desire their expertise
 * 2 Mentors - Each mentor should take at least one class, or both double up to fill the schedule
+
 ### Examples
 26 Students
 * Four workshops total, taught by four mentors
